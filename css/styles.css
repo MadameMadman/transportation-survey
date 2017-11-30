@@ -1,0 +1,10 @@
+.panel{
+  background-color: #d3d3d3;
+  padding: 2em;
+  margin-top: 2em;
+  border-radius: 2em;
+}
+
+#work-responses {
+  display: none;
+}
